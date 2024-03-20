@@ -27,7 +27,7 @@ npm install (if u dont have node modules)
 
 2. Open a new terminal inside your React Native project folder. Run the following:
 ```bash
-  npm rin android
+  npm run android
 ```
 
 

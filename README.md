@@ -31,4 +31,3 @@ npm install (if u dont have node modules)
 ```
 
 
-expo-cli start the ngrock tunnel to just scan your qr code to see the app in your wn phone
